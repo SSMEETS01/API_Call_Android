@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name1">Project6</string>
+    <string name="my_profile">My Profile</string>
+    <string name="siam_smeets">Siam Smeets</string>
+    <string name="my_profile_info_nsiam_smeets">My Profile Info\nSiam Smeets</string>
+    <string name="my_classmates">My Classmates</string>
+    <string name="personal_information">Personal information</string>
+    <string name="my_pet">My Pet</string>
+    <string name="my_grades">My Grades</string>
+    <string name="persoonlijke_informatie">Personal Information</string>
+    <string name="gender">Gender:</string>
+    <string name="address">Address:</string>
+    <string name="postal_code">Postal Code:</string>
+    <string name="birthdate">Birthdate:</string>
+    <string name="birth_place">Birth place</string>
+    <string name="studentnumber">Studentnumber:</string>
+    <string name="crebo">Crebo:</string>
+    <string name="education">Education:</string>
+    <string name="birth_information">Birth Information</string>
+    <string name="school_information">School information</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="hamster">Hamster</string>
+    <string name="no_Students">There are no Students Found</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="classname">Class</string>
+    <string name="add_new_gradeU">
+        <u>Add new grade</u>
+    </string>
+    <string name="add_new_result">Add new result</string>
+    <string name="student_number">Student number</string>
+    <string name="course_code">Course code</string>
+    <string name="title">Title</string>
+    <string name="result_date">Result Date</string>
+    <string name="grade">Grade</string>
+    <string name="submit_grade">Submit Grade</string>
+    <string name="no_results">No grades are found</string>
+</resources>

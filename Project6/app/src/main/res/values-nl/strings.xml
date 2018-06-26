@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Project6</string>
+    <string name="my_profile">Mijn Profiel</string>
+    <string name="siam_smeets">Siam Smeets</string>
+    <string name="my_profile_info_nsiam_smeets">Mijn Profiel info\nSiam Smeets</string>
+    <string name="my_classmates">Mijn Klasgenoten</string>
+    <string name="personal_information">Persoonlijke Informatie</string>
+    <string name="my_pet">Mijn dier</string>
+    <string name="my_grades">Mijn Cijfers</string>
+    <string name="persoonlijke_informatie">Persoonlijke Informatie</string>
+    <string name="gender">Geslacht:</string>
+    <string name="address">Adres:</string>
+    <string name="postal_code">Postcode:</string>
+    <string name="birthdate">Geboortedatum:</string>
+    <string name="birth_place">Geboorteplaats</string>
+    <string name="studentnumber">Studentnummer:</string>
+    <string name="crebo">Crebo:</string>
+    <string name="education">Opleiding:</string>
+    <string name="birth_information">Geboorte Informatie</string>
+    <string name="school_information">School Informatie</string>
+    <string name="first_name">Voornaam</string>
+    <string name="last_name">Achternaam</string>
+    <string name="hamster">Hamstertje</string>
+    <string name="no_Students">Er zijn geen studenten gevonden</string>
+    <string name="no_internet_connection">Geen internet connectie.</string>
+    <string name="classname">Klas</string>
+    <string name="add_new_gradeU"><u>Nieuwe cijfer toevoegen</u></string>
+    <string name="add_new_result">Nieuwe cijfer toevoegen</string>
+    <string name="student_number">Student nummer</string>
+    <string name="course_code">Vak code</string>
+    <string name="title">Titel</string>
+    <string name="result_date">Resultaat datum</string>
+    <string name="grade">Cijfer</string>
+    <string name="submit_grade">Verstuur Cijfer</string>
+    <string name="no_results">geen cijfers gevonden</string>
+</resources>
